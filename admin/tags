@@ -1,0 +1,395 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+#buttons 	styles/main.css	/^#buttons {$/;"	i
+#buttons .on	styles/main.css	/^#buttons .on{$/;"	i
+#buttons span 	styles/main.css	/^#buttons span {$/;"	i
+#list 	styles/main.css	/^#list {$/;"	i
+#play-container 	styles/main.css	/^#play-container {$/;"	i
+.add	styles/backstage.css	/^.add{width: 92px; height: 30px; font-family: "微软雅黑"; font-size: 14px;}$/;"	c
+.auto-login 	styles/main.css	/^.auto-login {$/;"	c
+.auto-login a:hover 	styles/main.css	/^.auto-login a:hover {$/;"	c
+.book-date	styles/main.css	/^.book-date{$/;"	c
+.book-date select	styles/main.css	/^.book-date select{$/;"	c
+.book-manage 	styles/main.css	/^.book-manage {$/;"	c
+.book-manage > table 	styles/main.css	/^.book-manage > table {$/;"	c
+.book-manage-table-title 	styles/main.css	/^.book-manage-table-title {$/;"	c
+.book-mes 	styles/main.css	/^.book-mes {$/;"	c
+.book-mes table 	styles/main.css	/^.book-mes table {$/;"	c
+.book-mes table td 	styles/main.css	/^.book-mes table td {$/;"	c
+.book-step 	styles/main.css	/^.book-step {$/;"	c
+.break-line 	styles/main.css	/^.break-line {$/;"	c
+.btn	styles/backstage.css	/^.btn{padding: 4px 16px; background-color: #E8E8E8; margin: 0 10px;font-family: "微软雅黑"; font-size: 14px; }$/;"	c
+.btn	styles/main.css	/^.btn{width:120px; padding: 4px 16px; background-color: #E8E8E8; margin: 0 10px;font-family: "微软雅黑"; font-size: 14px; }$/;"	c
+.btn-off	styles/main.css	/^.btn-off{width:120px; padding: 4px 16px; background-color: #808080; margin: 0 10px;font-family: "微软雅黑"; font-size: 14px; }$/;"	c
+.btn-on	styles/main.css	/^.btn-on{width:120px; padding: 4px 16px; background-color: #ff8000; margin: 0 10px;font-family: "微软雅黑"; font-size: 14px; }$/;"	c
+.btn:hover	styles/backstage.css	/^.btn:hover{background-color: #ccc;}$/;"	c
+.bui_select	styles/backstage.css	/^.bui_select{background-color: #FFFF00; height: 30px; float: left;}$/;"	c
+.check	styles/backstage.css	/^.check{margin-right: 4px;}$/;"	c
+.checked 	styles/main.css	/^.checked {$/;"	c
+.clearfix	styles/backstage.css	/^.clearfix{zoom:1;}$/;"	c
+.clearfix	styles/reset.css	/^.clearfix{zoom:1;}$/;"	c
+.clearfix:after	styles/backstage.css	/^.clearfix:after,$/;"	c
+.clearfix:after	styles/backstage.css	/^.clearfix:after{ clear: both;}$/;"	c
+.clearfix:after	styles/reset.css	/^.clearfix:after{content:"";display:block;clear:both;}$/;"	c
+.clearfix:before	styles/backstage.css	/^.clearfix:before{content: ""; display: table;}$/;"	c
+.common-width 	styles/main.css	/^.common-width {$/;"	c
+.cont	styles/backstage.css	/^.cont{position: relative;z-index: 3; zoom:1;}$/;"	c
+.content	styles/backstage.css	/^.content{overflow: hidden;}$/;"	c
+.details	styles/backstage.css	/^.details{padding: 15px; font-family: "微软雅黑";}$/;"	c
+.details_operation	styles/backstage.css	/^.details_operation{margin-bottom: 20px;}$/;"	c
+.docSrcByDis table  	styles/main.css	/^.docSrcByDis table  {$/;"	c
+.first-nav 	styles/main.css	/^.first-nav {$/;"	c
+.first-nav > li	styles/main.css	/^.first-nav > li{$/;"	c
+.first-nav > li:hover .second-nav 	styles/main.css	/^.first-nav > li:hover .second-nav {$/;"	c
+.first-nav li	styles/main.css	/^.first-nav li{$/;"	c
+.first-td	styles/main.css	/^.first-td{$/;"	c
+.fl	styles/backstage.css	/^.fl{float: left;}$/;"	c
+.fl	styles/reset.css	/^.fl{float:left;}$/;"	c
+.footer 	styles/main.css	/^.footer {$/;"	c
+.footer a:hover 	styles/main.css	/^.footer a:hover {$/;"	c
+.footer i 	styles/main.css	/^.footer i {$/;"	c
+.fr	styles/backstage.css	/^.fr{float: right;}$/;"	c
+.fr	styles/reset.css	/^.fr{float:right;}$/;"	c
+.head	styles/backstage.css	/^.head{height: 60px; background-color: #70DB93; padding: 0 10px;}$/;"	c
+.head_text	styles/backstage.css	/^.head_text{height: 100%; font:22px\/60px "微软雅黑"; color: #FFFF00; }$/;"	c
+.hide 	styles/main.css	/^.hide {$/;"	c
+.hr-25 	styles/main.css	/^.hr-25 {$/;"	c
+.ills 	styles/main.css	/^.ills {$/;"	c
+.ills > li 	styles/main.css	/^.ills > li {$/;"	c
+.ills a:hover 	styles/main.css	/^.ills a:hover {$/;"	c
+.ills div 	styles/main.css	/^.ills div {$/;"	c
+.ills-list > li 	styles/main.css	/^.ills-list > li {$/;"	c
+.label	styles/backstage.css	/^.label,.check{vertical-align: middle;}$/;"	c
+.left-area 	styles/main.css	/^.left-area {$/;"	c
+.link a	styles/backstage.css	/^.link a{color: #000;}$/;"	c
+.login 	styles/main.css	/^.login {$/;"	c
+.login-btn 	styles/main.css	/^.login-btn {$/;"	c
+.login-input 	styles/main.css	/^.login-input {$/;"	c
+.login-mes 	styles/main.css	/^.login-mes {$/;"	c
+.login-text 	styles/main.css	/^.login-text {$/;"	c
+.login-title 	styles/main.css	/^.login-title {$/;"	c
+.loginBox 	styles/main.css	/^.loginBox {$/;"	c
+.logo-bar 	styles/main.css	/^.logo-bar {$/;"	c
+.logo-text 	styles/main.css	/^.logo-text {$/;"	c
+.mList	styles/backstage.css	/^.mList{color:#FFFF00; font-size: 14px; font-family: "微软雅黑"; padding-top: 1em; zoom:1;}$/;"	c
+.mList a	styles/backstage.css	/^.mList a{color: #FFFF00;font:12px\/2 "微软雅黑"; display: block;}$/;"	c
+.mList dl	styles/backstage.css	/^.mList dl{text-indent: 3em;}$/;"	c
+.mList h3	styles/backstage.css	/^.mList h3{font:14px\/2 ""; padding-left: 1em;}$/;"	c
+.mList h3 span	styles/backstage.css	/^.mList h3 span{display: inline-block; width: 10px; margin-right: 8px;cursor: pointer;}$/;"	c
+.main	styles/backstage.css	/^.main{width: 100%;float: left;overflow: hidden;}$/;"	c
+.main .cont	styles/backstage.css	/^.main .cont{margin-left: 201px;}$/;"	c
+.mb-10 	styles/main.css	/^.mb-10 {$/;"	c
+.menu	styles/backstage.css	/^.menu{width: 200px; float: left; margin-left: -100%; height: 100%;  position: relative; z-index: 2; background-color: #70DB93; border-right: solid 1px rgb(11, 82, 215);margin-bottom: -380px;padding-bottom: 380px; overflow: hidden;}$/;"	c
+.menu 	styles/main.css	/^.menu {$/;"	c
+.ml30	styles/backstage.css	/^.ml30{margin-left: 30px; display: inline;}$/;"	c
+.nav-on 	styles/main.css	/^.nav-on {$/;"	c
+.operation_user	styles/backstage.css	/^.operation_user{font:12px\/2.5 "微软雅黑";padding: 0 10px; background-color: rgb(225, 224, 224);}$/;"	c
+.padding-t-l 	styles/main.css	/^.padding-t-l {$/;"	c
+.phone-text 	styles/main.css	/^.phone-text {$/;"	c
+.play-login 	styles/main.css	/^.play-login {$/;"	c
+.que 	styles/main.css	/^.que {$/;"	c
+.que ul 	styles/main.css	/^.que ul {$/;"	c
+.que ul li 	styles/main.css	/^.que ul li {$/;"	c
+.register 	styles/main.css	/^.register {$/;"	c
+.register input	styles/main.css	/^.register input[type="checkbox"] {$/;"	c
+.register input 	styles/main.css	/^.register input {$/;"	c
+.register li 	styles/main.css	/^.register li {$/;"	c
+.register p 	styles/main.css	/^.register p {$/;"	c
+.register span:first-child 	styles/main.css	/^.register span:first-child {$/;"	c
+.register ul 	styles/main.css	/^.register ul {$/;"	c
+.right-area 	styles/main.css	/^.right-area {$/;"	c
+.search	styles/backstage.css	/^.search{width: 140px; height: 30px; line-height: 30px\\9; background-color: #E8E8E8; padding: 0 8px;}$/;"	c
+.search 	styles/main.css	/^.search {$/;"	c
+.search-banner 	styles/main.css	/^.search-banner {$/;"	c
+.search-que 	styles/main.css	/^.search-que {$/;"	c
+.second-nav 	styles/main.css	/^.second-nav {$/;"	c
+.second-nav > li 	styles/main.css	/^.second-nav > li {$/;"	c
+.second-nav > li a:hover 	styles/main.css	/^.second-nav > li a:hover {$/;"	c
+.select	styles/backstage.css	/^.select{font-family: "微软雅黑"; font-size: 14px; height: 22px; margin: 4px 8px;}$/;"	c
+.show 	styles/main.css	/^.show {$/;"	c
+.table	styles/backstage.css	/^.table{border-collapse: collapse; width: 100%; font-size: 14px;text-align:center;}$/;"	c
+.table td	styles/backstage.css	/^.table td{border: solid 1px #ccc; padding: 8px;}$/;"	c
+.table th	styles/backstage.css	/^.table th,$/;"	c
+.table th	styles/backstage.css	/^.table th{background-color: #E8E8E8;}$/;"	c
+.text 	styles/backstage.css	/^.text {float: left; margin-left: 30px; display: inline;}$/;"	c
+.text span	styles/backstage.css	/^.text span{line-height: 30px; font-size: 14px; float:left; margin-right: 10px;}$/;"	c
+.title	styles/backstage.css	/^.title{font:16px\/2.5 "微软雅黑";padding: 0 10px; background-color: #ccc;}$/;"	c
+.top-bar 	styles/main.css	/^.top-bar {$/;"	c
+.top-bar a:hover 	styles/main.css	/^.top-bar a:hover {$/;"	c
+.user-icon 	styles/main.css	/^.user-icon {$/;"	c
+.user-mes 	styles/main.css	/^.user-mes {$/;"	c
+.user-mes a:hover 	styles/main.css	/^.user-mes a:hover {$/;"	c
+.user-mes p 	styles/main.css	/^.user-mes p {$/;"	c
+.welcome-title 	styles/main.css	/^.welcome-title {$/;"	c
+2	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+3	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+4	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+5	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+6	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+DB	configs/configs.php	/^define('DB','college_design');$/;"	d
+DB_CHARSET	configs/configs.php	/^define('DB_CHARSET', 'utf8');$/;"	d
+Getvaule	listOrder.php	/^function Getvaule(){$/;"	f
+HOST	configs/configs.php	/^define('HOST', '175.24.55.5');$/;"	d
+PASSWORD	configs/configs.php	/^define('PASSWORD','f.199771');$/;"	d
+ROOT	include.php	/^define('ROOT', dirname(__FILE__));$/;"	d
+USERNAME	configs/configs.php	/^define('USERNAME', 'root');$/;"	d
+_SESSION	core/admin.inc.php	/^    $_SESSION=array();$/;"	v
+_SESSION	core/user.inc.php	/^    $_SESSION=array();$/;"	v
+a	styles/backstage.css	/^a{text-decoration: none;}$/;"	s
+a	styles/reset.css	/^a{text-decoration:none; color:#656565;}$/;"	s
+a:hover	styles/backstage.css	/^a:hover{text-decoration: underline;}$/;"	s
+able	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+act	doAdminAction.php	/^$act=$_REQUEST['act'];$/;"	v
+act	doUserAction.php	/^$act=$_REQUEST['act'];$/;"	v
+addAdmin	core/admin.inc.php	/^function addAdmin(){$/;"	f
+addAdmin	listAdmin.php	/^function addAdmin(){$/;"	f
+addCate	core/cate.inc.php	/^function addCate(){$/;"	f
+addDisease	core/cate.inc.php	/^function addDisease(){$/;"	f
+addDoc	core/cate.inc.php	/^function addDoc(){$/;"	f
+addUser	core/user.inc.php	/^function addUser(){$/;"	f
+addUser	listUser.php	/^function addUser(){$/;"	f
+adminName	dologin.php	/^$adminName= $_POST['adminName'];$/;"	v
+alertBack	lib/common.func.php	/^function alertBack($mes) {\/\/返回前一个页面并刷新$/;"	f
+alertMes	lib/common.func.php	/^function alertMes($mes,$url) {$/;"	f
+angle	lib/image.func.php	/^        $angle = mt_rand(- 15, 15);\/\/随意角度$/;"	v
+animate.go	scripts/index.js	/^		var go = function() {$/;"	f
+arr	core/admin.inc.php	/^    $arr=$_POST;$/;"	v
+arr	core/cate.inc.php	/^    $arr=$_POST;$/;"	v
+arr	core/user.inc.php	/^    $arr=$_POST;$/;"	v
+black	lib/image.func.php	/^    $black = imagecolorallocate($image, 0, 0, 0);$/;"	v
+body	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+body	styles/reset.css	/^body{font-size:16px;}$/;"	s
+buildRandomString	lib/string.func.php	/^function buildRandomString($type,$length) {$/;"	f
+buttons	scripts/index.js	/^	for(var i = 0;i < buttons.length;i++){$/;"	f
+chars	lib/image.func.php	/^    $chars = buildRandomString($type, $length);  $/;"	v
+chars	lib/string.func.php	/^        $chars = join("", array_merge(range("A", "Z"), range("a", "z"), range(0, 9)));$/;"	v
+chars	lib/string.func.php	/^        $chars = join("", array_merge(range("a", "z"), range("A", "Z")));$/;"	v
+chars	lib/string.func.php	/^        $chars = join("", range(0, 9));$/;"	v
+chars	lib/string.func.php	/^    $chars = str_shuffle($chars);$/;"	v
+check	styles/backstage.css	/^.label,.check{vertical-align: middle;}$/;"	s
+checkLogin	core/admin.inc.php	/^function checkLogin() {$/;"	f
+checkbox	styles/main.css	/^.register input[type="checkbox"] {$/;"	s
+checkuserLogin	core/user.inc.php	/^function checkuserLogin() {$/;"	f
+color	lib/image.func.php	/^            $color = imagecolorallocate($image, mt_rand(50, 90), mt_rand(80, 200), mt_rand(90, 180));$/;"	v
+color	lib/image.func.php	/^        $color = imagecolorallocate($image, mt_rand(50, 90), mt_rand(80, 200), mt_rand(90, 180));$/;"	v
+createCode	login.php	/^        function createCode(){ $/;"	f
+createOrder	core/order.inc.php	/^function createOrder($docId,$timeFrame,$bookDate) {$/;"	f
+d	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+delAdmin	core/admin.inc.php	/^function delAdmin($id){$/;"	f
+delAdmin	listAdmin.php	/^function delAdmin(id){$/;"	f
+delCate	core/cate.inc.php	/^function delCate($id){$/;"	f
+delDisease	core/cate.inc.php	/^function delDisease($id){$/;"	f
+delDoc	core/cate.inc.php	/^function delDoc($id){$/;"	f
+delUser	core/user.inc.php	/^function delUser($id){$/;"	f
+delUser	listUser.php	/^function delUser(id){$/;"	f
+delete	lib/mysql.func.php	/^function delete($table,$where=null,$link){$/;"	f
+deleteOrder	core/order.inc.php	/^function deleteOrder($orderId){$/;"	f
+disRes	listOrder.php	/^                $disRes = fetchAll($sql, $link);$/;"	v
+docDepartment	core/order.inc.php	/^    $docDepartment = $rows['department'];$/;"	v
+docname	core/order.inc.php	/^    $docname = $rows['docname'];$/;"	v
+editAdmin	core/admin.inc.php	/^function editAdmin($id){$/;"	f
+editAdmin	listAdmin.php	/^function editAdmin(id){$/;"	f
+editCate	core/cate.inc.php	/^function editCate($id){$/;"	f
+editDisease	core/cate.inc.php	/^function editDisease($id){$/;"	f
+editDoc	core/cate.inc.php	/^function editDoc($id){$/;"	f
+editUser	core/user.inc.php	/^function editUser($id){$/;"	f
+editUser	listUser.php	/^function editUser(id){$/;"	f
+elect	styles/backstage.css	/^input,select,textarea{outline: none;border: none; background: none;}$/;"	s
+elect	styles/reset.css	/^input,select,textarea{outline:none;border:none; background:none;}$/;"	s
+extarea	styles/backstage.css	/^input,select,textarea{outline: none;border: none; background: none;}$/;"	s
+extarea	styles/reset.css	/^input,select,textarea{outline:none;border:none; background:none;}$/;"	s
+fetchAll	lib/mysql.func.php	/^function fetchAll($sql,$link){$/;"	f
+fetchOne	lib/mysql.func.php	/^function fetchOne($sql,$link){$/;"	f
+font	lib/image.func.php	/^        $font = "..\/fonts\/" . $fontfiles[2];$/;"	v
+fontfiles	lib/image.func.php	/^    $fontfiles = array($/;"	v
+getInsertId	lib/mysql.func.php	/^function getInsertId(){$/;"	f
+getResultNum	lib/mysql.func.php	/^function getResultNum($sql,$link){$/;"	f
+h1	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+height	lib/image.func.php	/^    $height = 28;$/;"	v
+height: 16px	styles/main.css	/^	height: 16px;$/;"	s
+i	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+id	editAdmin.php	/^$id=$_REQUEST['id'];$/;"	v
+id	editUser.php	/^$id=$_REQUEST['id'];$/;"	v
+ieldset	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+image	lib/image.func.php	/^    $image = imagecreatetruecolor($width, $height);$/;"	v
+img	styles/reset.css	/^img{border:none;}$/;"	s
+index	lib/page.func.php	/^        $index = ($page == 1) ? "首页" : "<a href='{$url}?{$where}page=1'>首页<\/a>";$/;"	v
+input	styles/backstage.css	/^input,select,textarea{outline: none;border: none; background: none;}$/;"	s
+input	styles/reset.css	/^input,select,textarea{outline:none;border:none; background:none;}$/;"	s
+insert	lib/mysql.func.php	/^function insert($table,$array,$link){$/;"	f
+iv	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+key	lib/mysql.func.php	/^	foreach($array as $key=>$val){$/;"	v
+keys	lib/mysql.func.php	/^	$keys=join(",",array_keys($array));$/;"	v
+l	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+last	lib/page.func.php	/^        $last = ($page == $totalPage) ? "尾页" : "<a href='{$url}?{$where}page={$totalPage}'>尾页<\/a>";$/;"	v
+li	styles/backstage.css	/^li{list-style: none;}$/;"	s
+li	styles/reset.css	/^li{list-style:none;}$/;"	s
+link	core/admin.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);   $/;"	v
+link	core/admin.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB); $/;"	v
+link	core/admin.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	core/cate.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	core/order.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	core/user.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);   $/;"	v
+link	core/user.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB); $/;"	v
+link	core/user.inc.php	/^    $link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	dologin.php	/^$link = mysqli_connect(HOST, USERNAME, PASSWORD, DB);$/;"	v
+link	editAdmin.php	/^$link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	editUser.php	/^$link=mysqli_connect(HOST,USERNAME,PASSWORD,DB);$/;"	v
+link	listAdmin.php	/^$link = mysqli_connect(HOST, USERNAME, PASSWORD, DB);$/;"	v
+link	listOrder.php	/^$link = mysqli_connect(HOST, USERNAME, PASSWORD, DB);$/;"	v
+link	listUser.php	/^$link = mysqli_connect(HOST, USERNAME, PASSWORD, DB);$/;"	v
+logout	core/admin.inc.php	/^function logout() {$/;"	f
+logoutUser	core/user.inc.php	/^function logoutUser() {$/;"	f
+margin: 0	styles/backstage.css	/^*{margin: 0;padding: 0;}$/;"	s
+mes	core/admin.inc.php	/^        $mes="修改失败!<\/br><a href='listAdmin.php'>返回管理员列表<\/a>";$/;"	v
+mes	core/admin.inc.php	/^        $mes="修改成功!<\/br><a href='listAdmin.php'>查看管理员列表<\/a>";$/;"	v
+mes	core/admin.inc.php	/^        $mes="删除失败!<br\/><a href='listAdmin.php' \/>查看管理员列表<\/a>";$/;"	v
+mes	core/admin.inc.php	/^        $mes="删除成功!<br\/><a href='listAdmin.php'>查看管理员列表<\/a>";$/;"	v
+mes	core/admin.inc.php	/^        $mes="注册失败!<\/br><a href='main.php'>返回首页<\/a>";$/;"	v
+mes	core/admin.inc.php	/^        $mes="注册成功!<\/br><a href='main.php'>返回首页<\/a>";$/;"	v
+mes	core/cate.inc.php	/^            $mes="删除失败!<br\/><a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^            $mes="删除失败!<br\/><a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^            $mes="删除成功!<br\/><a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^            $mes="删除成功!<br\/><a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改失败!<br\/><a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改失败!<br\/><a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改失败!<br\/><a href='listDoc.php'>查看医生列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改成功!<br\/><a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改成功!<br\/><a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="修改成功!<br\/><a href='listDoc.php'>查看医生列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="删除失败!<br\/><a href='listDoc.php'>查看医生列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="删除失败!请确保该分类下没有子分类!<br\/><a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="删除失败!请确保该子分类下没有医生可出诊!<br\/><a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="删除成功!<br\/><a href='listDoc.php'>查看医生列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加失败!<br\/><a href='addCate.php'>重新添加<\/a>|<a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加失败!<br\/><a href='addDisease.php'>重新添加<\/a>|<a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加失败!<br\/><a href='addDoc.php'>重新添加<\/a>|<a href='listDoc.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加成功!<br\/><a href='addCate.php'>继续添加<\/a>|<a href='listCate.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加成功!<br\/><a href='addDisease.php'>继续添加<\/a>|<a href='listDisease.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes="添加成功!<br\/><a href='addDoc.php'>继续添加<\/a>|<a href='listDoc.php'>查看分类列表<\/a>";$/;"	v
+mes	core/cate.inc.php	/^        $mes=alertMes("受理成功!", "waitingOrder.php");$/;"	v
+mes	core/user.inc.php	/^        $mes="修改失败!<\/br><a href='listuSer.php'>返回用户列表<\/a>";$/;"	v
+mes	core/user.inc.php	/^        $mes="修改成功!<\/br><a href='listUser.php'>查看用户列表<\/a>";$/;"	v
+mes	core/user.inc.php	/^        $mes="删除失败!<br\/><a href='listUser.php' \/>返回用户列表<\/a>";$/;"	v
+mes	core/user.inc.php	/^        $mes="删除成功!<br\/><a href='listUser.php'>查看用户列表<\/a>";$/;"	v
+mes	core/user.inc.php	/^        $mes="注册失败!<\/br><a href='index.php'>返回首页<\/a>";$/;"	v
+mes	core/user.inc.php	/^        $mes="注册成功!<\/br><a href='index.php'>返回首页<\/a>";$/;"	v
+mes	doAdminAction.php	/^    $mes = delDisease($id);$/;"	v
+mes	doAdminAction.php	/^    $mes = delDoc($id);$/;"	v
+mes	doAdminAction.php	/^    $mes = editDOc($id);$/;"	v
+mes	doAdminAction.php	/^    $mes = editDisease($id);$/;"	v
+mes	doAdminAction.php	/^    $mes = updatePaystatue($id);$/;"	v
+mes	doAdminAction.php	/^    $mes=addAdmin();$/;"	v
+mes	doAdminAction.php	/^    $mes=addCate();$/;"	v
+mes	doAdminAction.php	/^    $mes=addDisease();$/;"	v
+mes	doAdminAction.php	/^    $mes=addDoc();$/;"	v
+mes	doAdminAction.php	/^    $mes=delAdmin($id);$/;"	v
+mes	doAdminAction.php	/^    $mes=delCate($id);$/;"	v
+mes	doAdminAction.php	/^    $mes=editAdmin($id);$/;"	v
+mes	doAdminAction.php	/^    $mes=editCate($id);$/;"	v
+mes	doUserAction.php	/^    $mes=addUser();$/;"	v
+mes	doUserAction.php	/^    $mes=delUser($id);$/;"	v
+mes	doUserAction.php	/^    $mes=editUser($id);$/;"	v
+mg	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+next	lib/page.func.php	/^        $next = ($page == $totalPage) ? "下一页" : "<a href='{$url}?{$where}page=" . ($page + 1) . "'>下一页<\/a>";$/;"	v
+nput	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+offset	listAdmin.php	/^$offset=($page-1)*$pageSize;\/\/取值初始位置$/;"	v
+offset	listOrder.php	/^$offset=($page-1)*$pageSize;\/\/取值初始位置$/;"	v
+offset	listUser.php	/^$offset=($page-1)*$pageSize;\/\/取值初始位置$/;"	v
+orm	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+p	lib/page.func.php	/^        $p = '';$/;"	v
+padding: 0	styles/backstage.css	/^*{margin: 0;padding: 0;}$/;"	s
+page	listAdmin.php	/^    $page=$totalPage;$/;"	v
+page	listAdmin.php	/^    $page=1;$/;"	v
+page	listOrder.php	/^    $page=$totalPage;$/;"	v
+page	listOrder.php	/^    $page=1;$/;"	v
+page	listUser.php	/^    $page=$totalPage;$/;"	v
+page	listUser.php	/^    $page=1;$/;"	v
+pageSize	listAdmin.php	/^$pageSize=5;\/\/每页显示个数$/;"	v
+pageSize	listOrder.php	/^$pageSize=7;\/\/每页显示个数$/;"	v
+pageSize	listUser.php	/^$pageSize=5;\/\/每页显示个数$/;"	v
+pageStr	lib/page.func.php	/^    $pageStr= $str . "<br\/>" . $index .$step. $prev .$step. $p.$step . $next.$step . $last;$/;"	v
+password	dologin.php	/^$password = $_POST['password'];$/;"	v
+payOrder	core/order.inc.php	/^function payOrder($orderId){$/;"	f
+play.stop	scripts/index.js	/^    function stop () {$/;"	f
+prev	lib/page.func.php	/^        $prev = ($page == 1) ? "上一页" : "<a href='{$url}?{$where}page=" . ($page - 1) . "'>上一页<\/a>";$/;"	v
+result	lib/mysql.func.php	/^		$result=mysqli_query($link,$sql);$/;"	v
+result	lib/mysql.func.php	/^	$result=mysqli_query($link,$sql);$/;"	v
+row	dologin.php	/^    $row = fetchOne($sql, $link);$/;"	v
+row	editAdmin.php	/^$row=fetchOne($sql, $link);$/;"	v
+row	editUser.php	/^$row=fetchOne($sql, $link);$/;"	v
+row	lib/mysql.func.php	/^	$row=mysqli_fetch_assoc($result);$/;"	v
+rows	core/cate.inc.php	/^    $rows = fetchAll($sql, $link);$/;"	v
+rows	core/order.inc.php	/^    $rows = fetchOne($sql, $link);$/;"	v
+rows	listAdmin.php	/^$rows=fetchAll($sql, $link);$/;"	v
+rows	listOrder.php	/^$rows=fetchAll($sql, $link);$/;"	v
+rows	listUser.php	/^$rows=fetchAll($sql, $link);$/;"	v
+sep	lib/mysql.func.php	/^			$sep="";$/;"	v
+sep	lib/mysql.func.php	/^			$sep=",";$/;"	v
+show	index.php	/^    	function show(num,change){$/;"	f
+showPage	lib/page.func.php	/^function showPage($page,$totalPage,$where=null,$step="&nbsp"){$/;"	f
+size	lib/image.func.php	/^        $size = mt_rand(14, 18);\/\/随机大小$/;"	v
+sql	core/cate.inc.php	/^    $sql = "select * from disease where cateId='{$id}'";$/;"	v
+sql	core/cate.inc.php	/^    $sql = "select * from disease";$/;"	v
+sql	core/cate.inc.php	/^    $sql = "select * from doctor where disId='{$id}'";$/;"	v
+sql	core/order.inc.php	/^            $sql = "insert into booksystem.order (docId,docname,docDepartment,userId,username,bookdate,timeFrame,cost,paystatue) values ('{$docId}','{$docname}','{$docDepartment}','{$userId}','{$username}','{$bookDate}','14:30-15:30','5','未缴费')";$/;"	v
+sql	core/order.inc.php	/^            $sql = "insert into booksystem.order (docId,docname,docDepartment,userId,username,bookdate,timeFrame,cost,paystatue) values ('{$docId}','{$docname}','{$docDepartment}','{$userId}','{$username}','{$bookDate}','15:30-16:30','5','未缴费')";$/;"	v
+sql	core/order.inc.php	/^            $sql = "insert into booksystem.order (docId,docname,docDepartment,userId,username,bookdate,timeFrame,cost,paystatue) values ('{$docId}','{$docname}','{$docDepartment}','{$userId}','{$username}','{$bookDate}','8:30-9:30','5','未缴费')";$/;"	v
+sql	core/order.inc.php	/^            $sql = "insert into booksystem.order (docId,docname,docDepartment,userId,username,bookdate,timeFrame,cost,paystatue) values ('{$docId}','{$docname}','{$docDepartment}','{$userId}','{$username}','{$bookDate}','9:30-10:30','5','未缴费')";$/;"	v
+sql	core/order.inc.php	/^    $sql="select * from doctor where id = '$docId'";$/;"	v
+sql	dologin.php	/^    $sql = "select * from admin where adminName='$adminName' and password='$password'";$/;"	v
+sql	editAdmin.php	/^$sql="select * from admin where id='$id'";$/;"	v
+sql	editUser.php	/^$sql="select * from user where id='$id'";$/;"	v
+sql	lib/mysql.func.php	/^		$sql="update {$table} set {$str} ".($where==null?null:" where ".$where);$/;"	v
+sql	lib/mysql.func.php	/^	$sql="delete from {$table} {$where}";$/;"	v
+sql	lib/mysql.func.php	/^	$sql="insert into {$table}($keys) values({$vals})";$/;"	v
+sql	listAdmin.php	/^$sql="select * from admin";$/;"	v
+sql	listAdmin.php	/^$sql="select id,adminName from admin limit $offset,$pageSize";$/;"	v
+sql	listOrder.php	/^                $sql = "select * from user";$/;"	v
+sql	listOrder.php	/^    $sql="select * from usr_message where user_id='$disId'";$/;"	v
+sql	listOrder.php	/^    $sql="select * from usr_message";$/;"	v
+sql	listOrder.php	/^    $sql="select m_id,message,bot_message,user_name,update_time from usr_message inner join user  on usr_message.user_id = user.id limit $offset,$pageSize";$/;"	v
+sql	listOrder.php	/^    $sql="select m_id,message,bot_message,user_name,update_time from usr_message inner join user  on usr_message.user_id = user.id where usr_message.user_id='$disId' limit $offset,$pageSize";$/;"	v
+sql	listUser.php	/^$sql="select * from user";$/;"	v
+sql	listUser.php	/^$sql="select id,user_name,phone from user limit $offset,$pageSize";$/;"	v
+str	lib/mysql.func.php	/^    $str=null;$/;"	v
+str	lib/page.func.php	/^        $str = "总共{$totalPage}页\/当前第{$page}页";$/;"	v
+t	styles/reset.css	/^body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}$/;"	s
+text	lib/image.func.php	/^        $text = substr($chars, $i, 1);$/;"	v
+textarea	styles/backstage.css	/^textarea{resize: none;}$/;"	s
+textarea	styles/reset.css	/^textarea{resize:none;}$/;"	s
+totalPage	listAdmin.php	/^$totalPage=ceil($totalRows\/$pageSize);\/\/总页数$/;"	v
+totalPage	listOrder.php	/^$totalPage=ceil($totalRows\/$pageSize);\/\/总页数$/;"	v
+totalPage	listUser.php	/^$totalPage=ceil($totalRows\/$pageSize);\/\/总页数$/;"	v
+totalRows	listAdmin.php	/^$totalRows=getResultNum($sql, $link);\/\/结果集个数$/;"	v
+totalRows	listOrder.php	/^$totalRows=getResultNum($sql, $link);\/\/结果集个数$/;"	v
+totalRows	listUser.php	/^$totalRows=getResultNum($sql, $link);\/\/结果集个数$/;"	v
+type	styles/main.css	/^.register input[type="checkbox"] {$/;"	s
+update	lib/mysql.func.php	/^function update($table,$array,$where=null,$link){$/;"	f
+updatePaystatue	core/cate.inc.php	/^function updatePaystatue($id){$/;"	f
+url	lib/page.func.php	/^    $url = $_SERVER['PHP_SELF'];\/\/获取当前路径$/;"	v
+userId	core/order.inc.php	/^        $userId = $_COOKIE['userId'];$/;"	v
+username	core/order.inc.php	/^        $username = $_COOKIE['userName'];$/;"	v
+utf-8	styles/backstage.css	/^@charset "utf-8";$/;"	s
+utf-8	styles/main.css	/^@charset "utf-8";$/;"	s
+utf-8	styles/reset.css	/^@charset "utf-8";$/;"	s
+vals	lib/mysql.func.php	/^	$vals="'".join("','",array_values($array))."'";$/;"	v
+verify	dologin.php	/^$verify = $_POST['Captcha'];$/;"	v
+verify1	dologin.php	/^$verify1 = $_COOKIE['code'];$/;"	v
+verifyImage	lib/image.func.php	/^function verifyImage($type = 1,$length = 4,$pxiel = 0,$line = 0,$sess_name = "verify") {$/;"	f
+where	lib/mysql.func.php	/^	$where=$where==null?null:" where ".$where;$/;"	v
+where	lib/page.func.php	/^    $where=($where==null)?null:$where."&";$/;"	v
+white	lib/image.func.php	/^    $white = imagecolorallocate($image, 255, 255, 255);$/;"	v
+width	lib/image.func.php	/^    $width = 80;$/;"	v
+width: 40px	styles/main.css	/^	width: 40px;$/;"	s
+window.onload.animate	scripts/index.js	/^	function animate (offset) {$/;"	f
+window.onload.checkcookie	scripts/index.js	/^function checkcookie() {$/;"	f
+window.onload.getcookie	scripts/index.js	/^function getcookie() {$/;"	f
+window.onload.play	scripts/index.js	/^    function play () {$/;"	f
+window.onload.showButton	scripts/index.js	/^	function showButton () {$/;"	f
+x	lib/image.func.php	/^        $x = 5 + $i * $size;\/\/x轴$/;"	v
+y	lib/image.func.php	/^        $y = mt_rand(20, 26);\/\/y轴$/;"	v
